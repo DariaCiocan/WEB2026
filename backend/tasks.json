@@ -17,5 +17,14 @@
     "deadlineTime": "13:00",
     "completed": false,
     "createdAt": "2026-05-03T14:45:54.350Z"
+  },
+  {
+    "id": 1778605917888,
+    "text": "Cumparaturi",
+    "priority": "Scazut",
+    "deadline": "2026-05-14",
+    "deadlineTime": null,
+    "completed": false,
+    "createdAt": "2026-05-12T17:11:57.888Z"
   }
 ]

@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 5000;
 // Permite cereri din domeniul Vercel si din localhost (dezvoltare)
 app.use(cors({
   origin: [
-    process.env.FRONTEND_URL || 'https://todo-list-frontend.vercel.app',
+    process.env.FRONTEND_URL || 'https://web-2026-blush.vercel.app/',
     'http://localhost:5173'
   ]
 }));

@@ -124,7 +124,7 @@
   gap: 6px;
 }
 
-.add-btn:hover  { background: #caff45; }
+.add-btn:hover  { background: #5304fc; }
 .add-btn:active { transform: scale(0.97); }
 
 .error-msg {

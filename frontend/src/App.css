@@ -343,7 +343,7 @@
 
 .toast-success {
   background: var(--surface-2);
-  border-color: rgba(184, 255, 60, 0.3);
+  border-color: rgba(247, 4, 219, 0.3);
   border-left: 3px solid var(--accent);
   color: var(--text);
 }

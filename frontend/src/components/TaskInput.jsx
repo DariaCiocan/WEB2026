@@ -15,7 +15,7 @@ export default function TaskInput({ onAdd }) {
         <input
           type="text"
           className={`task-input ${error ? 'input-error' : ''}`}
-          placeholder="Adauga o sarcina noua..."
+          placeholder="Adauga o sarcina noua....."
           value={text}
           onChange={handleChange}
           maxLength={200}
